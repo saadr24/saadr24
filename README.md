@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saadr24
-- 👀 I’m interested in learning up to date software languages.
+- 👀 Researching new developments is my hobbie and questioning myself on why am I doing this is a never ending loop full of new aquirable skills.
 - 🌱 I’m currently learning AwS Cloud Services, Linux, Python, SQL, Data Analysis, and Security through Per Scholas.
 - 📫 Best way to reach me is through my LinkedIn - www.linkedin.com/in/saad-rana-a135731b6 
 - :bowtie: Please dont hesitate to reach out or connect!
